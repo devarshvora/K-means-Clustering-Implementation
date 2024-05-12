@@ -1,5 +1,4 @@
 #Name: Devarsh Vora
-#1002159763
 
 import random
 import sys
