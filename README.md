@@ -1,8 +1,3 @@
-# K-means-Clustering-Implementation
-
-Sure, here's a README template for your project:
-
----
 
 # K-means Clustering Implementation
 
